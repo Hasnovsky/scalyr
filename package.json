@@ -1,23 +1,25 @@
 {
-  "author": {
-    "name": "Hasnovsky",
-  },
+  "name": "angular-scalyr",
+  "version": "1.0.0",
   "description": "Modified scalyr that checks visibility through jQuery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "keywords": [
     "angular",
     "scalyr",
     "browser",
     "client-side"
   ],
-  "license": "MIT",
-  "main": "index.js",
-  "name": "scaly",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hasnovsky/scalyr"
+    "url": "git+https://github.com/Hasnovsky/scalyr.git"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": "Hasnovsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hasnovsky/scalyr/issues"
   },
-  "version": "1.7.9"
+  "homepage": "https://github.com/Hasnovsky/scalyr#readme"
 }
