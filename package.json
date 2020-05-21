@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Hasnovsky/scalyr/issues"
   },
-  "homepage": "https://github.com/Hasnovsky/scalyr#readme"
+  "homepage": "https://github.com/Hasnovsky/scalyr#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
 }
